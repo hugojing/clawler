@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "author": "Hugo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^0.19.0",
     "eventproxy": "^0.3.4",
